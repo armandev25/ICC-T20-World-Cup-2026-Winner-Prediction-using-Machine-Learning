@@ -2,6 +2,13 @@
 
 **An end-to-end probabilistic simulation of the ICC Men’s T20 World Cup 2026 using historical T20I data, machine learning, and tournament simulation logic.**
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
 ---
 
 ## Project Overview
@@ -208,3 +215,4 @@ The model’s primary objective is match-level and progression-level prediction,
 ---
 
 *This project was built for learning, experimentation, and analytical rigor — not betting or gambling.*
+
